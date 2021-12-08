@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**OwenGitHub1/OwenGitHub1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 关于我
 
-Here are some ideas to get you started:
+- 工作： 前端开发工程师
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 城市：北京
+
+- 文章
+
+  小专栏：[https://xiaozhuanlan.com/frontage](https://xiaozhuanlan.com/frontage)
+
+  头条：Owen大前端时代
+
+  公众号：前端时代
+
+- 联系我
+
+  微信：mengfei524785774
+
